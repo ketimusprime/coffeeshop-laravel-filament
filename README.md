@@ -28,7 +28,7 @@
 ## 🖼 Demo Preview
 
 ### Website Preview
-![Website Screenshot](Screenshot 2025-09-12 100311.png)
+![Website Screenshot](pay.png)
 
 
 ---
