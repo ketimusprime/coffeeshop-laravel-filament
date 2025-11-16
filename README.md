@@ -28,12 +28,8 @@
 ## 🖼 Demo Preview
 
 ### Website Preview
-![Website Screenshot](images/portfolio-front.png)
+![Website Screenshot](images/Screenshot 2025-09-12 100311.png)
 
-### Admin Dashboard (Filament)
-![Filament Dashboard](images/portfolio-admin.png)
-
-> *Letakkan gambar kamu di folder `images/` dan ganti namanya.*
 
 ---
 
