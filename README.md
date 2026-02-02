@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/your-logo.png" width="180" alt="Project Logo">
+  <img src="KetimusPrime.png" width="180" alt="Project Logo">
 </p>
 
 <h1 align="center">Portofolio Laravel + Filament</h1>
