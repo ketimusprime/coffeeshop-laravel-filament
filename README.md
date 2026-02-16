@@ -37,7 +37,7 @@
 
 ```bash
 git clone https://github.com/username/coffeeshop-laravel-filament.git
-cd portofolio-laravel-filament
+cd offeeshop-laravel-filament
 
 composer install
 npm install && npm run build
