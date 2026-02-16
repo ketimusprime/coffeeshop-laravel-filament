@@ -36,7 +36,7 @@
 ## ⚙️ Installation (Local)
 
 ```bash
-git clone https://github.com/username/coffeeshop-laravel-filament.git
+git clone https://github.com/ketimusprime/coffeeshop-laravel-filament.git
 cd offeeshop-laravel-filament
 
 composer install
