@@ -13,15 +13,15 @@
 
 ## 🚀 Features
 
-- Modern & clean portfolio website  
+- Modern & Easy Shop website
+- Scan the QR code on your table. 
 - Powerful Filament Admin Dashboard  
-- CRUD Projects  
-- CRUD Skills  
-- CRUD Experience & Education  
-- Blog Management  
-- Dark/Light Mode  
-- API-ready structure  
-- Fully responsive layout  
+- CRUD Product
+- CRUD Category
+- CRUD Generated Table
+- Monitoring Payment
+- Payment Options
+- Integrated Payment Gateway
 
 ---
 
@@ -36,7 +36,7 @@
 ## ⚙️ Installation (Local)
 
 ```bash
-git clone https://github.com/username/portofolio-laravel-filament.git
+git clone https://github.com/username/coffeeshop-laravel-filament.git
 cd portofolio-laravel-filament
 
 composer install
